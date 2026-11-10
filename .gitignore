@@ -5,12 +5,12 @@ AI协作过程/
 源代码.rar
 
 # ===== 原始数据与运行时数据（隐私，不上传）=====
-源代码/main5/data_2026.2.10.xlsx
-源代码/main5/user_profiles.db
-源代码/main5/memory.json
-源代码/main5/vector_memory.json
-源代码/main5/task_logs.json
-源代码/main5/api_key.txt
+src/main5/data_2026.2.10.xlsx
+src/main5/user_profiles.db
+src/main5/memory.json
+src/main5/vector_memory.json
+src/main5/task_logs.json
+src/main5/api_key.txt
 
 # ===== 构建/运行杂物 =====
 __pycache__/
